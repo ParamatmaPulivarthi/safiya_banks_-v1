@@ -1,0 +1,7 @@
+banks names~turnovers
+state bank of india{sbi}~66.76 crore
+hdfc bank~13.25 crore
+icic banks~2,118,240 crore
+punjab national bank{pnb}~18.18 crore
+axis bank~16,56,926 crore
+bank of baroda {bob}~19.13 crore
